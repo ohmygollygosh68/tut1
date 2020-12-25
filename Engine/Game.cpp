@@ -34,6 +34,7 @@ void Game::Go()
 	UpdateModel();
 	ComposeFrame();
 	gfx.EndFrame();
+	// just some text to test git up stuff
 }
 
 void Game::UpdateModel()
